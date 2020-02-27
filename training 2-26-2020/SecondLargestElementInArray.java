@@ -1,0 +1,19 @@
+package com.cts.training6;
+
+import java.util.Scanner;
+
+public class SecondLargestElementInArray {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Input the number of elements to store in the array:");
+		int number = sc.nextInt();
+		int[] arr = new int[number];
+		System.out.println("Enter Elements:");
+		for (int i = 0; i < number; i++) {
+			arr[i] = sc.nextInt();
+			
+		}
+	}
+
+}
