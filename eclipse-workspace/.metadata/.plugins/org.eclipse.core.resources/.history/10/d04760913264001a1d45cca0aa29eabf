@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+	/* var empName = "kiran";
+	console.log(empName.toUpperCase());
+	console.log(empName.toLowerCase());
+	console.log(empName.substring(2, 4)); */
+	
+	var cities=["latur","solapur","kanpur","pandharpur","Belapur"];
+	document.write("<br/><br/>"+cities);
+	var city=cities.slice(3,5);
+	document.write("<br/><br/>"+city);
+	
+	
+	
+	
+	
+</script>
+</head>
+<body>
+
+</body>
+</html>

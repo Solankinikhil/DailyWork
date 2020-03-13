@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\seed\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\381656304.index
+\JSTLDemo1\src
+C:\Users\seed\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2560396961.index
+\CustomTag\src
+C:\Users\seed\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\105383260.index
+\JSP\src
+C:\Users\seed\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4150150524.index
+\MVCExample\src

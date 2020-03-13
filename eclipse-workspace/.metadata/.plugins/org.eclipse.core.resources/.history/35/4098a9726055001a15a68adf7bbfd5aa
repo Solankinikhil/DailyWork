@@ -1,0 +1,17 @@
+package com.cts.training5;
+
+public class ActivityThread {
+
+	public static void main(String[] args) {
+		Runnable r = new Thread2();
+        Thread t = new Thread(r);
+        
+        t.start();
+        
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Web page type</title>
+<script type="text/javascript">
+
+function function2(){
+	var marks=95;
+	return marks;
+}
+function task{
+	var marks2=function2();
+	console.log(marks2)
+	
+}
+
+</script>
+</head>
+<body>
+	<h1>Heading H1</h1>
+	<input type="button" value="click me" onclick="task()"/>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+
+
+var Mobile=function(model_name){
+	this.model_name=model_name;
+	this.price=23000;
+}
+
+
+
+</script>
+
+</head>
+<body>
+
+</body>
+</html>

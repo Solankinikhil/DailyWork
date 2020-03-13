@@ -1,0 +1,14 @@
+package com.cts.training6;
+
+import java.util.Scanner;
+
+public class OddEvenArray {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Input the number of elements to store in the array:");
+	    int number=sc.nextInt();
+
+	}
+
+}

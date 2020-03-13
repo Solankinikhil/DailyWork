@@ -1,0 +1,17 @@
+package com.cts.training5;
+
+public class ThreadTwoResource implements Runnable {
+
+	Resource resource;
+	
+	public ThreadTwoResource(Resource resource) {
+		this.resource=resource;
+	}
+	
+	@Override
+	public void run() {
+		resource.display("Thread-1");
+		
+	}
+
+}

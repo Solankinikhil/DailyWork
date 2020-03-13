@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="">
+<input type="text" name="un" placeholder="Enter username"/><br/>
+<input type="password" name= "pwd" placeholder="Enter password"/><br/>
+<input type="submit" value="form submit karo"/>
+</form>
+</body>
+<script type="text/javascript">
+function sayHello(){
+	document.write("<h1>Hello Good Afternoon</h1>")
+}
+
+
+
+
+
+
+</html>

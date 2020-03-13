@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="" onsubmit>
+		User Name	<input type="text" name="userName" placeholder="Enter username" required/><br><br>
+		Password	  <input type="password" name="password" placeholder="Enter password" required /><br><br>
+		<input type="Submit" value="Submit" />
+	</form>
+</body>
+<script type="text/javascript">
+	function sayHello() {
+		document.write("<h1>Hello Good Afternoon All</h1>");
+		document.write("<h1>Today Date is as"new Date()+"</h1>");
+	}
+</script>
+</html>

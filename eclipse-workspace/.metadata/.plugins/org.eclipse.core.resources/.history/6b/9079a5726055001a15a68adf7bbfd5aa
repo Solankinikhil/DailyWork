@@ -1,0 +1,11 @@
+package com.cts.training5;
+
+public class Thread1 implements Runnable {
+
+	@Override
+	public void run() {
+		
+		
+	}
+
+}

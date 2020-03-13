@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<script type="text/javascript">
+/* var a=34;
+console.log(a);
+a=834;
+console.log(a);
+
+
+const b=34;
+console.log(b);
+b=834;
+console.log(b); */
+
+/* var cities=["pune","mumbai","Latur","Banglore"];
+console.log(cities);
+
+
+var employee=new Array("Virat","pant","dhoni","raina");
+var rev=employee.reverse();  
+document.writeln(rev); 
+
+console.log(employee);
+
+var num=[43,67,89,2,5,100,7];
+console.log(Math.max(...num));
+ */
+ 
+ 
+ var a=1001;
+ console.log(a);
+ b=789;
+ console.log(b);
+ var b;
+
+</script>
+
+
+</head>
+<body>
+
+</body>
+</html>

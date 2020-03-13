@@ -1,0 +1,407 @@
+
+Mar 11, 2020 15:22:39.26 NEW SESSION
+Mar 11, 2020 15:22:39.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:40.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:40.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:41.47 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:43.79 
+Mar 11, 2020 15:22:43.79 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 15:22:43.79 
+Mar 11, 2020 15:22:49.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:49.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:50.19 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:50.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:50.88 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:22:54.33 _create_dc_and_bitmap: The operation completed successfully.
+Mar 11, 2020 15:22:54.33 
+Mar 11, 2020 15:22:54.33 _create_dc_and_bitmap: The handle is invalid.
+Mar 11, 2020 15:22:54.33 
+Mar 11, 2020 15:22:54.33 _create_dc_and_bitmap: The handle is invalid.
+Mar 11, 2020 15:22:54.33 
+Mar 11, 2020 15:23:01.51 
+Mar 11, 2020 15:23:01.52 ###!!! [Child][MessageChannel] Error: (msgtype=0x370135,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+Mar 11, 2020 15:23:01.52 
+Mar 11, 2020 15:23:01.63 
+Mar 11, 2020 15:23:01.65 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 15:23:01.65 
+Mar 11, 2020 15:26:43.03 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:26:43.36 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:26:43.67 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:26:44.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:26:57.78 
+Mar 11, 2020 15:26:57.80 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 15:26:57.80 
+Mar 11, 2020 15:26:57.80 
+Mar 11, 2020 15:26:57.80 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 15:26:57.80 
+Mar 11, 2020 15:27:03.60 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:27:03.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:27:04.24 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:27:04.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:27:04.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 15:32:07.72 
+Mar 11, 2020 15:32:07.72 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 15:32:07.72 
+Mar 11, 2020 16:17:27.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:17:27.74 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:17:28.10 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:17:33.85 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:17:42.21 
+Mar 11, 2020 16:17:42.21 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 16:17:42.21 
+Mar 11, 2020 16:19:50.24 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:19:50.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:19:50.91 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:19:52.93 
+Mar 11, 2020 16:19:52.93 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 16:19:52.93 
+Mar 11, 2020 16:21:14.85 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:21:15.19 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:21:15.51 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:21:15.74 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:21:22.21 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:22:06.69 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:22:21.36 
+Mar 11, 2020 16:22:21.36 ###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+Mar 11, 2020 16:22:21.37 
+Mar 11, 2020 16:23:44.56 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:23:44.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:23:45.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:23:48.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:23:50.78 
+Mar 11, 2020 16:23:50.78 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 16:23:50.79 
+Mar 11, 2020 16:23:50.79 
+Mar 11, 2020 16:23:50.79 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 16:23:50.79 
+Mar 11, 2020 16:24:09.70 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:24:10.02 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:24:10.37 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:24:14.82 
+Mar 11, 2020 16:24:14.84 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 16:24:14.84 
+Mar 11, 2020 16:25:00.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:25:00.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:25:01.24 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:25:05.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:30:01.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:34:33.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:37:57.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:38:21.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:38:51.86 
+Mar 11, 2020 16:38:51.86 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 16:38:51.86 
+Mar 11, 2020 16:38:51.86 
+Mar 11, 2020 16:38:51.88 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 16:38:51.88 
+Mar 11, 2020 16:43:38.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:43:39.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:43:39.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:43:40.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 16:45:18.11 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:09:50.86 
+Mar 11, 2020 17:09:50.87 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 17:09:50.87 
+Mar 11, 2020 17:09:50.87 
+Mar 11, 2020 17:09:50.87 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 17:09:50.87 
+Mar 11, 2020 17:11:14.11 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:11:14.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:11:14.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:11:15.45 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:11:24.38 
+Mar 11, 2020 17:11:24.38 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 11, 2020 17:11:24.38 
+Mar 11, 2020 17:11:24.38 
+Mar 11, 2020 17:11:24.38 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 11, 2020 17:11:24.38 
+Mar 11, 2020 17:13:22.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:13:22.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:13:23.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:13:23.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:17:24.35 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:24:18.56 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:37:20.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:38:23.45 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:42:01.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:46:41.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:53:29.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 11, 2020 17:55:13.72 Exiting due to channel error.
+
+Mar 12, 2020 09:56:12.84 NEW SESSION
+Mar 12, 2020 09:56:12.84 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 09:56:13.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 09:56:13.51 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 09:56:14.18 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:24:06.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:24:06.68 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:24:07.01 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:24:07.68 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:31:37.33 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:33:03.50 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:33:23.96 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:33:34.69 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:34:12.49 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 10:40:38.10 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:08:54.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:09:04.44 
+Mar 12, 2020 11:09:04.46 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 11:09:04.46 
+Mar 12, 2020 11:09:04.46 
+Mar 12, 2020 11:09:04.46 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 11:09:04.46 
+Mar 12, 2020 11:09:27.99 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:09:28.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:09:28.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:09:29.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:12:33.95 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:13:39.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:24:49.02 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:24:58.73 
+Mar 12, 2020 11:24:58.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 11:24:58.73 
+Mar 12, 2020 11:25:54.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:25:54.96 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:25:55.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:25:55.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:26:16.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:29:53.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:38:46.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:38:58.62 
+Mar 12, 2020 11:38:58.64 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 11:38:58.64 
+Mar 12, 2020 11:39:30.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:39:30.99 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:39:31.33 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:39:32.00 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:40:23.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:40:35.14 
+Mar 12, 2020 11:40:35.14 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 11:40:35.14 
+Mar 12, 2020 11:42:13.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:42:14.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:42:14.53 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:42:15.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:46:40.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:49:40.17 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:52:51.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 11:58:20.70 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:01:08.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:10:41.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:10:49.18 
+Mar 12, 2020 12:10:49.20 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 12:10:49.20 
+Mar 12, 2020 12:10:49.20 
+Mar 12, 2020 12:10:49.20 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 12:10:49.20 
+Mar 12, 2020 12:12:17.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:12:17.99 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:12:18.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:12:18.99 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:13:26.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:13:26.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:13:27.24 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:13:27.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:13:32.88 
+Mar 12, 2020 12:13:32.88 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 12:13:32.88 
+Mar 12, 2020 12:13:32.88 
+Mar 12, 2020 12:13:32.90 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 12:13:32.90 
+Mar 12, 2020 12:15:27.29 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:15:27.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:15:27.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:15:28.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:16:59.96 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:17:11.57 
+Mar 12, 2020 12:17:11.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 12:17:11.57 
+Mar 12, 2020 12:19:19.55 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:19:19.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:19:20.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:19:20.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:19:30.45 
+Mar 12, 2020 12:19:30.47 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 12:19:30.47 
+Mar 12, 2020 12:19:30.47 
+Mar 12, 2020 12:19:30.47 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 12:19:30.47 
+Mar 12, 2020 12:24:49.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:24:49.73 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:24:50.05 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:24:50.74 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:27:06.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:46:36.49 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 12:54:58.49 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:21:49.35 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:22:16.53 
+Mar 12, 2020 14:22:16.53 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 14:22:16.53 
+Mar 12, 2020 14:22:16.53 
+Mar 12, 2020 14:22:16.53 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 14:22:16.53 
+Mar 12, 2020 14:31:51.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:31:51.59 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:31:51.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:31:52.59 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:31:57.18 [Parent 6028, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+Mar 12, 2020 14:32:09.47 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:32:09.81 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:32:10.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:32:10.81 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:33:34.11 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:33:38.28 
+Mar 12, 2020 14:33:38.28 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 14:33:38.28 
+Mar 12, 2020 14:33:38.28 
+Mar 12, 2020 14:33:38.28 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 14:33:38.28 
+Mar 12, 2020 14:33:50.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:33:51.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:33:51.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:33:52.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 14:51:36.47 
+Mar 12, 2020 14:51:36.47 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 14:51:36.47 
+Mar 12, 2020 14:51:36.47 
+Mar 12, 2020 14:51:36.49 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 14:51:36.49 
+Mar 12, 2020 15:20:07.28 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:20:07.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:20:07.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:20:08.28 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:20:08.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:26:50.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:27:56.00 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:29:01.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:29:03.05 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:43:33.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:43:37.56 
+Mar 12, 2020 15:43:37.56 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 15:43:37.56 
+Mar 12, 2020 15:44:08.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:44:09.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:44:09.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:44:10.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:45:24.06 
+Mar 12, 2020 15:45:24.07 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 15:45:24.07 
+Mar 12, 2020 15:45:24.07 
+Mar 12, 2020 15:45:24.07 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 15:45:24.07 
+Mar 12, 2020 15:45:37.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:45:37.78 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:45:38.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:45:38.78 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 15:46:11.14 
+Mar 12, 2020 15:46:11.15 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 15:46:11.15 
+Mar 12, 2020 15:46:11.15 
+Mar 12, 2020 15:46:11.16 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 15:46:11.16 
+Mar 12, 2020 16:39:54.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:39:54.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:39:54.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:39:55.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:40:02.21 
+Mar 12, 2020 16:40:02.21 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 16:40:02.21 
+Mar 12, 2020 16:41:25.53 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:25.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:26.19 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:26.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:28.57 
+Mar 12, 2020 16:41:28.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 16:41:28.57 
+Mar 12, 2020 16:41:41.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:41.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:41.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:42.56 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 16:41:48.55 
+Mar 12, 2020 16:41:48.55 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 12, 2020 16:41:48.56 
+Mar 12, 2020 17:01:55.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 17:01:55.97 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 17:01:56.28 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 17:01:56.99 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 12, 2020 17:01:57.74 [Parent 5772, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+Mar 12, 2020 17:01:57.87 
+Mar 12, 2020 17:01:57.87 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 12, 2020 17:01:57.88 
+
+Mar 13, 2020 12:47:54.83 NEW SESSION
+Mar 13, 2020 12:47:54.83 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 12:47:55.36 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 12:47:55.72 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 12:47:56.29 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 12:48:00.52 
+Mar 13, 2020 12:48:00.54 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 12:48:00.55 
+Mar 13, 2020 14:06:31.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:06:31.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:06:31.96 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:06:32.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:08:25.25 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:10:08.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:11:37.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:16:24.19 
+Mar 13, 2020 14:16:24.20 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 13, 2020 14:16:24.20 
+Mar 13, 2020 14:44:31.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:44:32.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:44:32.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:44:37.54 
+Mar 13, 2020 14:44:37.55 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.55 
+Mar 13, 2020 14:44:37.55 
+Mar 13, 2020 14:44:37.55 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.55 
+Mar 13, 2020 14:44:37.55 
+Mar 13, 2020 14:44:37.55 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.55 
+Mar 13, 2020 14:44:37.55 
+Mar 13, 2020 14:44:37.56 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.56 
+Mar 13, 2020 14:44:37.56 
+Mar 13, 2020 14:44:37.56 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.56 
+Mar 13, 2020 14:44:37.56 
+Mar 13, 2020 14:44:37.56 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.56 
+Mar 13, 2020 14:44:37.56 
+Mar 13, 2020 14:44:37.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.57 
+Mar 13, 2020 14:44:37.57 
+Mar 13, 2020 14:44:37.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.57 
+Mar 13, 2020 14:44:37.57 
+Mar 13, 2020 14:44:37.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.57 
+Mar 13, 2020 14:44:37.57 
+Mar 13, 2020 14:44:37.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:44:37.57 
+Mar 13, 2020 14:45:41.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:45:41.60 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:45:41.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:45:44.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:45:45.46 
+Mar 13, 2020 14:45:45.46 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 14:45:45.46 
+Mar 13, 2020 14:51:54.97 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:51:55.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:51:55.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:51:55.88 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:51:56.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:55:10.18 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:56:01.35 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:56:55.74 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 14:57:01.66 _create_dc_and_bitmap: The data area passed to a system call is too small.
+Mar 13, 2020 14:57:01.66 
+Mar 13, 2020 15:21:55.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 16:10:41.99 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Mar 13, 2020 16:10:52.19 
+Mar 13, 2020 16:10:52.19 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Mar 13, 2020 16:10:52.19 
+Mar 13, 2020 16:10:52.21 
+Mar 13, 2020 16:10:52.21 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Mar 13, 2020 16:10:52.21 

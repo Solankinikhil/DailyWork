@@ -1,0 +1,5 @@
+package com.newpackage;
+
+public class MyServlet {
+
+}

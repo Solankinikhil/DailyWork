@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+function changeContnt() {
+	document.getElementById("p1").innerHTML = "This content is appended dynamically";
+	document.title = "web app 20";
+	document.querySelector('title').textContent = "Page title changed;"
+
+}</script>
+</head>
+<body>
+	<p id="p1"></p>
+	<button onclick="changeContnt()">YOU CAN Call_me</button>
+</body>
+
+</html>

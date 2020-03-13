@@ -1,0 +1,10 @@
+package com.cts;
+
+import javax.xml.parsers.DocumentBuilderFactory;
+
+public class TestDOM {
+public static void main(String[] args) {
+	DocumentBuilderFactory factory=DocumentBuilderFactory.newInstance();
+	DocumentBuilder builder =factory.newDocumentBuilder();
+}
+}

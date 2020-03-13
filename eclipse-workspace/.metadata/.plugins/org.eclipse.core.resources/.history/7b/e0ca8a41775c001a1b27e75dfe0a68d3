@@ -1,0 +1,17 @@
+package com.cts.training.day2;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapDemo1 {
+
+	public static void main(String[] args) {
+		Map<Integer, String> map = new HashMap<>();
+		map.put(23456, "rahul$$");
+		map.put(3456, "kartik$");
+		map.put(2345, "bumra$$");
+
+		System.out.println(map);
+	}
+
+}

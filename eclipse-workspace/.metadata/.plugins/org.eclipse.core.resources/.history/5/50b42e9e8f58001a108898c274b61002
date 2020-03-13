@@ -1,0 +1,22 @@
+package com.cts.training6;
+
+public class LambdaExpression {
+
+	public static void main(String[] args) {
+	//	Runnable r=() -> System.out.println("Hello Runnable");
+	//	Thread t=new Thread(r);
+	//	t.start();
+		
+		Hello h= () -> "Good morning";
+		System.out.println(h.greetings());
+		
+	}
+
+}
+
+@FunctionalInterface
+interface Hello
+{
+	String greetings();
+	//public void display();
+}

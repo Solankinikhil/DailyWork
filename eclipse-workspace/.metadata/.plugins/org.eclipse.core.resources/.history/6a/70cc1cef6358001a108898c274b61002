@@ -1,0 +1,37 @@
+package com.cts.training6;
+
+import java.util.Scanner;
+
+public class CopyArray {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter number of elements:");
+		int number=sc.nextInt();
+		
+		int[] arr=new int[number];
+		int[] arr2=new int[number];
+		
+		System.out.println("Enter elements");
+			for(int i=0;i<number;i++)
+			{
+				arr[i] =sc.nextInt();
+			}
+			System.out.print("Values stored are:\n");
+			for(int i=0;i<number;i++)
+			{
+				System.out.println( arr[i] );
+			}
+			
+			for(int i=0;i<number;i++)
+			{
+				arr[2]=arr[1];
+			}
+			System.out.print("The elements copied into the second array are \n");
+			for(int i=0;i<number;i++)
+			{
+				System.out.println(arr2[i]+" ");
+			}
+	}
+
+}

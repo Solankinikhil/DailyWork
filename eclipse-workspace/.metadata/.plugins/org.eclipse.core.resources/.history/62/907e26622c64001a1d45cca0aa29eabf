@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+
+function Employee(firstname){
+	thsi.firstname=firstname;
+}
+
+var e1=new Employee("Kartik");
+var e2=new Employee("Kavya");
+e1.getEmployee=function(){
+	return this.firstname;
+}
+e2.getEmployee=function(){
+	return this.firstname;
+}
+
+
+
+</script>
+</html>
